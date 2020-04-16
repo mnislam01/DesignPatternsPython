@@ -4,8 +4,8 @@ Design Patterns learning contents and progress table
 
 | Contents   |      Started      |  Completed |
 |:----------|:-------------:|:------:|
-| SOLID |  :heavy_check_mark: | :heavy_check_mark: |
-| Builder |    :heavy_check_mark:   |   :heavy_check_mark: |
+| [SOLID](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter01-SOLID) |  :heavy_check_mark: | :heavy_check_mark: |
+| [Builder](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter02-Builder) |    :heavy_check_mark:   |   :heavy_check_mark: |
 | Factories| | |
 | Prototype| | |
 | Singleton| | |
@@ -26,5 +26,4 @@ Design Patterns learning contents and progress table
 | State | | |
 | Strategy | | |
 | Template Method | | |
-| Visitor | | |
 | Visitor | | |
