@@ -6,7 +6,7 @@ Design Patterns learning contents and progress table
 |:----------|:-------------:|:------:|
 | [SOLID](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter01-SOLID) |  :heavy_check_mark: | :heavy_check_mark: |
 | [Builder](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter02-Builder) |    :heavy_check_mark:   |   :heavy_check_mark: |
-| [Factories](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter03-Factories) | :heavy_check_mark:  |  :x:  |
+| [Factories](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter03-Factories) | :heavy_check_mark:  |  :heavy_check_mark:  |
 | Prototype| | |
 | Singleton| | |
 | Adapter| | |
