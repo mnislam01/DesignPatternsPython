@@ -8,7 +8,7 @@ Design Patterns learning contents and progress table
 | [Builder](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter02-Builder) |    :heavy_check_mark:   |   :heavy_check_mark: |
 | [Factories](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter03-Factories) | :heavy_check_mark:  |  :heavy_check_mark:  |
 | [Prototype](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter04-Prototype) | :heavy_check_mark: |  :heavy_check_mark:  |
-| [Singleton](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter05-Singleton)|  :heavy_check_mark:  |  |
+| [Singleton](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter05-Singleton)|  :heavy_check_mark:  | :heavy_check_mark:  |
 | Adapter| | |
 | Bridge | | |
 | Composite | | |
