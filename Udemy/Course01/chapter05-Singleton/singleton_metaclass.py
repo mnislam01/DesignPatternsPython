@@ -1,3 +1,5 @@
+import unittest
+
 class Singleton(type):
     _instances = {}
 
@@ -10,8 +12,13 @@ class Database(metaclass=Singleton):
     def __init__(self):
         print('Loading Database')
 
+class TestSingleton(unittest.TestCase):
+
+    def test_singleton_database_instance(self):
+        d1 = Database()
+        d2 = Database()
+        self.assertEqual(d1,d1)
+
 if __name__ == "__main__":
-    d1 = Database()
-    d2 = Database()
-    
-    print(d1 == d2)
+    unittest.main()
+
