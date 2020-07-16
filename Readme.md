@@ -11,7 +11,7 @@ Design Patterns learning contents and progress table
 | [Singleton](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter05-Singleton)|  :heavy_check_mark:  | :heavy_check_mark:  |
 | [Adapter](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter06-Adapter) | :heavy_check_mark:  | :heavy_check_mark:  |
 | [Bridge](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter07-Bridge)| :heavy_check_mark:  | :heavy_check_mark:  |
-| Composite | | |
+| [Composite](https://github.com/mnislam01/DesignPatternsPython/tree/master/Udemy/Course01/chapter08-Composite)| :heavy_check_mark: | |
 | Decorator | | |
 | Facade | | |
 | Flyweight | | |
